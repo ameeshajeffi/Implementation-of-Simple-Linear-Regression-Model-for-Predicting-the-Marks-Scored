@@ -68,27 +68,35 @@ print("RMSE= ",rmse)
 
 ## Output:
 Dataset
+
 ![dataset](https://github.com/ameeshajeffi/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/150773598/3d8acaef-514f-420b-bd2d-2a64c3516e8b)
 
 Head values
+
 ![head](https://github.com/ameeshajeffi/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/150773598/90089f61-1837-41fc-8e5b-5034f5c115b8)
 
 Tail Values
+
 ![tail](https://github.com/ameeshajeffi/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/150773598/be681286-b1a1-40d2-8294-e38cf2eba400)
 
 X and Y values
+
 ![xyvalues](https://github.com/ameeshajeffi/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/150773598/af2109f3-3cf7-4ae7-a44e-045697e107d2)
 
 Predication values of X and Y
+
 ![predict ](https://github.com/ameeshajeffi/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/150773598/80d9e272-c340-43bb-86dd-7b8b6535d106)
 
 MSE,MAE and RMSE
+
 ![values](https://github.com/ameeshajeffi/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/150773598/7dba03ba-f8ef-4794-9dfa-73a653c75323)
 
 Training Set
+
 ![train](https://github.com/ameeshajeffi/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/150773598/3f58e8df-1b40-4809-a890-1008f6589344)
 
 Testing Set
+
 ![test](https://github.com/ameeshajeffi/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/150773598/a1be3288-5ffb-44ce-a51c-ac23be78fe24)
 
 ## Result:
